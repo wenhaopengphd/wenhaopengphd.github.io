@@ -106,7 +106,7 @@ Wenhao Peng received a B.S.E. degree in Electrical Engineering in 2018, an M.S. 
 Experience<br>
 
 Skyworks Solutions, Inc.<br>
-RF Acoustic Wave Filter Design Staff Electrical Engineer<br>
+RF Acoustic Staff Electrical Engineer<br>
 
 Skyworks Solutions, Inc.<br>
 
