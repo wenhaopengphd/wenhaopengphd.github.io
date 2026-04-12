@@ -108,8 +108,6 @@ Experience<br>
 Skyworks Solutions, Inc.<br>
 RF Acoustic Staff Electrical Engineer<br>
 
-Skyworks Solutions, Inc.<br>
-
 Feb 2026 - Present<br>
 
 Irvine, California, United States<br>
