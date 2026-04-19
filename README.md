@@ -143,7 +143,7 @@ University of Michigan
 
 Doctor of Philosophy, Electrical and Computer Engineering<br>
 
-Sep 2019 - Jan 2026<br>
+Sep 2018 - Jan 2026<br>
 
 Grade: 4.00/4.00<br>
 
@@ -155,7 +155,7 @@ University of Michigan<br>
 
 Master of Science in Engineering, Mechanical Engineering <br>
 
-2019 - Dec 2024<br>
+Sep 2024 - Dec 2024<br>
 
 Grade: 4.00/4.00<br>
 
@@ -165,7 +165,7 @@ University of Michigan<br>
 
 Master of Science, Electrical and Computer Engineering<br>
 
-2018 - 2019<br>
+Sep 2018 - Dec 2019<br>
 
 Grade: 4.00/4.00<br>
 
