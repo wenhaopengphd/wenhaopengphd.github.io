@@ -106,35 +106,31 @@ Wenhao Peng received a B.S.E. degree in Electrical Engineering in 2018, an M.S. 
 Experience<br>
 
 Skyworks Solutions, Inc.<br>
-RF Acoustic Staff Electrical Engineer<br>
 
-Feb 2026 - Present<br>
+RF Acoustic Staff Electrical Engineer<br>
 
 Irvine, California, United States<br>
 
+Feb 2026 - Present<br>
+
 Electrical and Computer Engineering at the University of Michigan<br>
 
-Graduate Student Research Assistant 7 yrs 4 mos<br>
-
 Ann Arbor, Michigan, United States<br>
+
+Research Assistant<br>
 
 Sep 2019 - Dec 2025<br>
 
 Bulk acoustic wave resonators featuring polarization switchable functional thin film materials; funded by DARPA and NSF<br>
 
-Graduate Student Research Assistant<br>
-
 Sep 2018 - Aug 2019<br>
 
 Reconfigurable DSP accelerator for software defined radio receivers; funded by DARPA<br>
 
-Electrical and Computer Engineering at the University of Michigan<br>
-
-Undergraduate Student Research Assistant May 2017 - Apr 2018<br>
-
-Ann Arbor, Michigan, United States<br>
+May 2017 - Apr 2018<br>
 
 Wakeup receivers; funded by Intel<br>
+
 </p>
 <p>
 Education<br>
