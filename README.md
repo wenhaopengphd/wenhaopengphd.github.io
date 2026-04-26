@@ -34,85 +34,53 @@ Wenhao Peng received a B.S.E. degree in Electrical Engineering in 2018, an M.S. 
 
 <p>
 Experience<br>
-
 Skyworks Solutions, Inc.<br>
-
 RF Acoustic Staff Electrical Engineer<br>
-
 Irvine, California, United States<br>
-
 Feb 2026 - Present<br>
 
 Electrical and Computer Engineering at the University of Michigan<br>
-
 Ann Arbor, Michigan, United States<br>
-
 Research Assistant<br>
-
 Sep 2019 - Dec 2025<br>
-
 Bulk acoustic wave resonators featuring polarization switchable functional thin film materials; funded by DARPA and NSF<br>
-
 Sep 2018 - Aug 2019<br>
-
 Reconfigurable DSP accelerator for software defined radio receivers; funded by DARPA<br>
-
 May 2017 - Apr 2018<br>
-
 Wakeup receivers; funded by Intel<br>
-
 </p>
 <p>
 Education<br>
 
 University of Michigan
-
 Doctor of Philosophy, Electrical and Computer Engineering<br>
-
 Sep 2018 - Jan 2026<br>
-
 Grade: 4.00/4.00<br>
-
 Technical Area: Applied Electromagnetics and RF Circuits.<br>
-
 BAW resonators featuring ferroelectric layers up to mm-Wave frequencies; design, modeling, fabrication, measurement, and characterization.<br>
 
 University of Michigan<br>
-
 Master of Science in Engineering, Mechanical Engineering <br>
-
 Sep 2024 - Dec 2024<br>
-
 Grade: 4.00/4.00<br>
-
 Technical Area: Dynamics and Vibrations<br>
 
 University of Michigan<br>
-
 Master of Science, Electrical and Computer Engineering<br>
-
 Sep 2018 - Dec 2019<br>
-
 Grade: 4.00/4.00<br>
-
 Technical Area: Integrated Circuits and VLSI<br>
 
 University of Michigan<br>
-
 Bachelor of Science in Engineering, Electrical Engineering, Summa Cum Laude<br>
-
 2016 - 2018<br>
-
 Grade: 4.00/4.00<br>
-
 Academic previous experience from Shanghai<br>
 </p>
 <p>
 Projects<br>
 mm-Wave FBARs based on Periodically Poled AlN/ScAlN/AlN<br>
-
 Jan 2022 - Dec 2025<br>
-
 Designed resonators based on the Mason equivalent circuit model in ADS and multiphysics simulation in COMSOL. Analyzed the quality factor of different metals due to thermoelasticity. Derived a formula for the electromechanical coupling coefficient based on analytical methods in mechanical vibrations which translates it to the acoustic fields in the resonator, enabling efficient design and optimization. Explored different electrode options, layer stacks, and optimized layer thicknesses.
 Improved the nanofabrication process involving lithography, dry etching, plasma etching, wet etching, and physical vapor deposition.
 Improved the polarization switching process involving applying electrical pulses and observing and analyzing current readings. Electrical experiments with a ferroelectric tester and also an amplifier circuit with current probes.
@@ -121,20 +89,16 @@ Verified de-embedding structures with ADS Momentum and Ansys HFSS.
 Analyzed measurement data with equivalent circuit models in ADS.
 Tuned material properties in ADS for further design iterations.
 Demonstrated good resonator performance at mm-Wave.
-
 <br>
 
 Intrinsically Switchable FBARs based on BST<br>
-
 Sep 2019 - Dec 2021<br>
-
 Designed resonators based on the Mason equivalent circuit model in ADS and multiphysics simulation in COMSOL.
 Designed filters based on the Mason equivalent circuit model as well as the modified Butterworth Van Dyke model in ADS, utilizing the image parameter method.
 Cleanroom nanofabrication involving oxidation, lithography, physical vapor deposition, wet etching, and dry etching.
 Probed devices with GSG probes and VNA.
 Analyzed data in ADS with equivalent circuit models.
 Implemented a large signal model based on the phenomenology model for ferroelectric materials to account for the electric field dependent permittivity and coupling between the electrical and mechanical domains.
-
 <br>
 </p>
 
