@@ -3,101 +3,32 @@
     <title>Wenhao Peng, Ph.D. from Michigan</title>
   </head>
 
-    <body>
+  <body>
+<p>
 <img src="reunnamed.jpg" width=180 alt="">
 <img src="RelIMG_3489.jpg" width=360 alt="">
 <img src="RelDSC5199.jpg" width=180 alt="">
 <img src="RelDSC5178.jpg" width=180 alt="">
 <img src="Relunnamed.jpg" width=180 alt="">
 <img src="RelIMG_1494.jpg" width=360 alt="">
-
-<figure>
-<img src="rel_porcupine_mountains_summit_peak.jpg" width=1440 alt="">
-<figcaption>Porcupine Mountains: Summit Peak</figcaption>
-</figure>
-
-<figure>
-<img src="rel_tahquamenon_falls.jpg" width=1440 alt="">
-<figcaption>Tahquamenon Falls: Lower Falls</figcaption>
-</figure>
-
-<figure>
-<img src="rel_pictured_rocks_miners_castle.jpg" width=1440 alt="">
-<figcaption>Pictured Rocks: Miner's Castle</figcaption>
-</figure>
-
-
-<figure>
-<img src="rel_sleeping_bear_dunes_lake_michigan_overlook.jpg" width=1440 alt="">
-<figcaption>Sleeping Bear Dunes: Lake Michigan Overlook</figcaption>
-</figure>
-
-<figure>
-<img src="rel_sleeping_bear_dunes_north_bar_lake_overlook.jpg" width=1440 alt="">
-<figcaption>Sleeping Bear Dunes: North Bar Lake Overlook</figcaption>
-</figure>
-
-<figure>
-<img src="rel_brockway_mountain_drive_west_bluff_overlook.jpg" width=1440 alt="">
-<figcaption>Brockway Mountain Drive West Bluff Overlook</figcaption>
-</figure>
-
-<figure>
-<img src="rel_pictured_rocks_mosquito_beach.jpg" width=1440 alt="">
-<figcaption>Pictured Rocks: Mosquito Beach</figcaption>
-</figure>
-
-<figure>
-<img src="rel_tawas_point_lighthouse.jpg" width=1440 alt="">
-<figcaption>Tawas Point: Lighthouse</figcaption>
-</figure>
-
-<figure>
-<img src="rel_sleeping_bear_dunes_sleeping_bear_point.jpg" width=1440 alt="">
-<figcaption>Sleeping Bear Dunes: Sleeping Bear Point</figcaption>
-</figure>
-
-<figure>
-<img src="rel_tahquamenon_falls_upper_falls.jpg" width=1440 alt="">
-<figcaption>Tahquamenon Falls: Upper Falls</figcaption>
-</figure>
-
-<figure>
-<img src="rel_sleeping_bear_dunes_dune_climb.jpg" width=1440 alt="">
-<figcaption>Sleeping Bear Dunes: Dune Climb</figcaption>
-</figure>
-
-<figure>
-<img src="rel_sleeping_bear_dunes_empire_bluff_overlook.jpg" width=1440 alt="">
-<figcaption>Sleeping Bear Dunes: Empire Bluff Overlook</figcaption>
-</figure>
-
-<figure>
-<img src="rel_porcupine_mountains_escarpment_trail.jpg" width=1440 alt="">
-<figcaption>Porcupine Mountains: Escarpment Trail</figcaption>
-</figure>
-
-<figure>
-<img src="rel_brockway_mountain_drive_looking_east.jpg" width=1440 alt="">
-<figcaption>Brockway Mountain Drive: Looking East</figcaption>
-</figure>
-
-<figure>
-<img src="rel_porcupine_mountains_lake_of_the_clouds.jpg" width=1440 alt="">
-<figcaption>Porcupine Mountains Lake of the Clouds</figcaption>
-</figure>
-
-<figure>
-<img src="rel_pictured_rocks_lovers_leap.jpg" width=1440 alt="">
-<figcaption>Pictured Rocks: Lover's Leap</figcaption>
-</figure>
-
-
-<figure>
-<img src="rel_pictured_rocks_grand_portal.jpg" width=1440 alt="">
-<figcaption>Pictured Rocks: Grand Portal</figcaption>
-</figure>
-
+<img src="rel_porcupine_mountains_summit_peak.jpg" width=360 alt="">
+<img src="rel_tahquamenon_falls.jpg" width=360 alt="">
+<img src="rel_pictured_rocks_miners_castle.jpg" width=360 alt="">
+<img src="rel_sleeping_bear_dunes_lake_michigan_overlook.jpg" width=360 alt="">
+<img src="rel_sleeping_bear_dunes_north_bar_lake_overlook.jpg" width=360 alt="">
+<img src="rel_brockway_mountain_drive_west_bluff_overlook.jpg" width=360 alt="">
+<img src="rel_pictured_rocks_mosquito_beach.jpg" width=360 alt="">
+<img src="rel_tawas_point_lighthouse.jpg" width=360 alt="">
+<img src="rel_sleeping_bear_dunes_sleeping_bear_point.jpg" width=360 alt="">
+<img src="rel_tahquamenon_falls_upper_falls.jpg" width=360 alt="">
+<img src="rel_sleeping_bear_dunes_dune_climb.jpg" width=360 alt="">
+<img src="rel_sleeping_bear_dunes_empire_bluff_overlook.jpg" width=360 alt="">
+<img src="rel_porcupine_mountains_escarpment_trail.jpg" width=360 alt="">
+<img src="rel_brockway_mountain_drive_looking_east.jpg" width=360 alt="">
+<img src="rel_porcupine_mountains_lake_of_the_clouds.jpg" width=360 alt="">
+<img src="rel_pictured_rocks_lovers_leap.jpg" width=360 alt="">
+<img src="rel_pictured_rocks_grand_portal.jpg" width=360 alt="">
+</p>
 <p>
 Wenhao Peng received a B.S.E. degree in Electrical Engineering in 2018, an M.S. degree in Electrical and Computer Engineering (Integrated Circuits and VLSI) in 2019, and an M.S.E. degree in Mechanical Engineering (Dynamics and Vibrations) in 2024, all from the University of Michigan, Ann Arbor, MI, USA, where he defended his Ph.D. in Electrical and Computer Engineering (Applied Electromagnetics and RF Circuits) in January 2026. His research focuses on the design and modeling of acoustic wave resonators driven by thin-film piezoelectric and ferroelectric materials, such as aluminum nitride, scandium-doped aluminum nitride, and barium strontium titanate, with applications in frontend filters. He is also interested in developing fabrication technologies for resonant MEMS devices, as well as integrating acoustic wave resonator based filters in RF frontend modules.
 </p>
