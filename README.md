@@ -155,132 +155,71 @@ Publications<br>
 <p>
 Courses<br>
 Advanced Engineering Acoustics
-
 MECHENG 524
-
-
 <br>
-
 Advanced Lasers and Optics Laboratory
-
 Ve 438
-
-
 <br>
-
 Advanced Solid State Microwave Circuits
-
 EECS 525
-
-
 <br>
-
 Advanced Vibrations of Structures
-
 MECHENG 641
-
-
 <br>
-
 Analog Integrated Circuits
-
 EECS 522
-
-
 <br>
-
 Computer Architecture
-
 EECS 470
-
-
 <br>
-
 DSP Design Laboratory
-
 EECS 452
-
-
 <br>
-
 Digital Communication Signals and Systems
-
 EECS 455
-
-
 <br>
 Electromagnetics Theory I
-
 EECS 530
-
-
 <br>
-
 Engineering Acoustics
-
 MECHENG 424
-
-
 <br>
-
 Introduction to Cryptography
-
 Ve 475
-
 <br>
 Introduction to MEMS
-
 EECS 414
-
 <br>
 Math for Robotics
-
 ROB 501
-
 <br>
 Mathematical Methods in Mechanical Engineering
-
 MECHENG 501
-
 <br>
 Mechanical Vibrations
-
 MECHENG 541
-
 <br>
 Microwave Circuits I
-
 EECS 411
-
 <br>
 Monolithic Amplifier Circuits
-
 EECS 413
-
 <br>
 Probabilistic Methods in Engineering
-
 Ve 401
 <br>
 Theory of Solid Continua
-
 MECHENG 511
-
 <br>
 VLSI Design I
-
 EECS 427
-
 <br>
 VLSI Design II
-
 EECS 627
-
 <br>
 Wave Propagation in Elastic Solids
-
 MECHENG 645
-<br></p>
+</p>
 
 <p>
 Links<br>
