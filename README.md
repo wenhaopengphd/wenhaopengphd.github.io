@@ -27,7 +27,6 @@
 <img src="rel_brockway_mountain_drive_looking_east.jpg" width=180 alt="">
 <img src="rel_porcupine_mountains_lake_of_the_clouds.jpg" width=180 alt="">
 <img src="rel_pictured_rocks_lovers_leap.jpg" width=180 alt="">
-<img src="rel_pictured_rocks_grand_portal.jpg" width=180 alt="">
 </p>
 <p>
 Wenhao Peng received a B.S.E. degree in Electrical Engineering in 2018, an M.S. degree in Electrical and Computer Engineering (Integrated Circuits and VLSI) in 2019, and an M.S.E. degree in Mechanical Engineering (Dynamics and Vibrations) in 2024, all from the University of Michigan, Ann Arbor, MI, USA, where he defended his Ph.D. in Electrical and Computer Engineering (Applied Electromagnetics and RF Circuits) in January 2026. His research focuses on the design and modeling of acoustic wave resonators driven by thin-film piezoelectric and ferroelectric materials, such as aluminum nitride, scandium-doped aluminum nitride, and barium strontium titanate, with applications in frontend filters. He is also interested in developing fabrication technologies for resonant MEMS devices, as well as integrating acoustic wave resonator based filters in RF frontend modules.
