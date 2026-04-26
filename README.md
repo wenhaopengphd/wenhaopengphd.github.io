@@ -209,6 +209,20 @@ Implemented a large signal model based on the phenomenology model for ferroelect
 </p>
 
 <p>
+Publications<br>
+  S. Nam, W. Peng, P. Wang, D. Wang, Z. Mi and A. Mortazawi, "A mm-Wave Trilayer AlN/ScAlN/AlN Higher Order Mode FBAR," in IEEE Microwave and Wireless Technology Letters, vol. 33, no. 6, pp. 803-806, June 2023, doi: 10.1109/LMWT.2023.3271865.<br>
+  D. Wang, P. Wang, S. Mondal, J. Liu, M. Hu, M. He, S. Nam, W. Peng, S. Yang, D. Wang, Y. Xiao, Y. Wu, A. Mortazawi, and Z. Mi, “Controlled ferroelectric switching in ultrawide bandgap aln/scaln multilayers,” Applied Physics Letters, vol. 123, no. 10, p. 103506, 09 2023, doi: 10.1063/5.0160163.<br>
+  W. Peng, S. Nam, D. Wang, Z. Mi and A. Mortazawi, "A 56 GHz Trilayer AlN/ScAlN/AlN Periodically Poled FBAR," 2024 IEEE/MTT-S International Microwave Symposium - IMS 2024, Washington, DC, USA, 2024, pp. 150-153, doi: 10.1109/IMS40175.2024.10600386.<br>
+  S. Nam, M. Z. Koohi, W. Peng and A. Mortazawi, "A Switchless Quad Band Filter Bank Based on Ferroelectric BST FBARs," in IEEE Microwave and Wireless Components Letters, vol. 31, no. 6, pp. 662-665, June 2021, doi: 10.1109/LMWC.2021.3069880.<br>
+  M. Z. Koohi, W. Peng and A. Mortazawi, "An Intrinsically Switchable Balanced Ferroelectric FBAR Filter at 2 GHz," 2020 IEEE/MTT-S International Microwave Symposium (IMS), Los Angeles, CA, USA, 2020, pp. 131-134, doi: 10.1109/IMS30576.2020.9223799.<br>
+  W. Peng, M. Z. Koohi, S. Nam and A. Mortazawi, "Phenomenological Circuit Modeling of Ferroelectric-Driven Bulk Acoustic Wave Resonators," in IEEE Transactions on Microwave Theory and Techniques, vol. 70, no. 1, pp. 919-925, Jan. 2022, doi: 10.1109/TMTT.2021.3130609.<br>
+  H. Desai, W. Peng and A. Mortazawi, "Single-Pole Single-Throw RF Acoustic Phase Inversion Switch Leveraging Poled Ferroelectrics," in IEEE Transactions on Microwave Theory and Techniques, vol. 73, no. 1, pp. 6-13, Jan. 2025, doi: 10.1109/TMTT.2024.3496665.<br>
+  W. Peng, M. Z. Koohi, S. Nam and A. Mortazawi, "Physics Based Modeling of Electrostriction Based BAW Resonators," 2021 IEEE MTT-S International Microwave Symposium (IMS), Atlanta, GA, USA, 2021, pp. 214-217, doi: 10.1109/IMS19712.2021.9574949.<br>
+  Y. Dai, W. Peng, Y. Wang, LX. Chuo, K. Suri, H. Zheng, D. Wentzloff, HS. Kim, "Implementation and Evaluation of Bi-Directional WiFi Back-channel Communication," 2018 IEEE 29th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Bologna, Italy, 2018, pp. 1-7, doi: 10.1109/PIMRC.2018.8580736.<br>
+  W. Peng, S. Nam, D. Wang, Z. Mi and A. Mortazawi, "A 36 GHz Trilayer AlN/ScAlN/AlN Periodically Poled FBAR," 2025 IEEE/MTT-S International Microwave Symposium - IMS 2025, San Francisco, CA, USA, 2025, pp. 786-789, doi: 10.1109/IMS40360.2025.11103989.<br>
+</p>
+
+<p>
 Courses<br>
 Advanced Engineering Acoustics
 
