@@ -4,7 +4,7 @@
   </head>
 
   <body>
-<p>
+<p class="wide-paragraph">
 <img src="reunnamed.jpg" width=180 alt="">
 <img src="RelIMG_3489.jpg" width=360 alt="">
 <img src="RelDSC5199.jpg" width=180 alt="">
