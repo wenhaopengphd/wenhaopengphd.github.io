@@ -186,10 +186,10 @@ MECHENG 645
 </p>
 
 <p>
-Peer Review Activities<br>
-American Physical Society Physical Review<br>
-IEEE Journal of Microelectromechanical Systems<br>
-Science Direct Progress in Quantum Electronics<br>
+Peer Review Contributions<br>
+American Physical Society Physical Review: 2<br>
+IEEE Journal of Microelectromechanical Systems: 3<br>
+Science Direct Progress in Quantum Electronics: 1<br>
 </p>
 
 <p>
