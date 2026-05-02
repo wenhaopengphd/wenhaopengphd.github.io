@@ -75,7 +75,6 @@ University of Michigan<br>
 Bachelor of Science in Engineering, Electrical Engineering, Summa Cum Laude<br>
 2016 - 2018<br>
 Grade: 4.00/4.00<br>
-<br>
 
 Shanghai Jiao Tong University<br>
 Bachelor of Science in Engineering, Electrical and Computer Engineering<br>
