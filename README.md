@@ -29,7 +29,7 @@
 <img src="rel_pictured_rocks_lovers_leap.jpg" width=180 alt="">
 </p>
 <p>
-Wenhao Peng received his Ph.D. in Electrical and Computer Engineering in May 2026 from the University of Michigan, Ann Arbor, MI, USA, after receiving an M.S.E. degree in Mechanical Engineering (Dynamics and Vibrations) in 2024, an M.S. degree in Electrical and Computer Engineering (Integrated Circuits and VLSI) in 2019, and two B.S.E. degrees in 2018. His research focuses on the design and modeling of acoustic wave resonators driven by thin-film piezoelectric and ferroelectric materials, such as aluminum nitride, scandium-doped aluminum nitride, and barium strontium titanate, with applications in frontend filters. He is also interested in developing fabrication technologies for resonant MEMS devices, as well as integrating acoustic wave resonator based filters in RF frontend modules.
+Wenhao Peng received the Ph.D. degree in electrical and computer engineering from the University of Michigan, Ann Arbor, MI, USA, in May 2026. He also received the M.S.E. degree in mechanical engineering, with a focus on dynamics and vibrations, in 2024; the M.S. degree in electrical and computer engineering, with a focus on integrated circuits and VLSI, in 2019; and two B.S.E. degrees in 2018. His research focuses on the design and modeling of acoustic wave resonators based on thin-film piezoelectric and ferroelectric materials, including aluminum nitride, scandium-doped aluminum nitride, and barium strontium titanate, for applications in front-end filters. He is also interested in fabrication technologies for resonant MEMS devices and the integration of acoustic-wave-resonator-based filters into RF front-end modules.
 </p>
 
 <p>
