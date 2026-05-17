@@ -202,7 +202,7 @@ Science Direct Progress in Quantum Electronics: 1<br>
 <p>
 Links<br>
 <a href="https://ieeexplore.ieee.org/author/37088530665">IEEE</a><br>
-<a href="https://www.linkedin.com/in/wenhaopengphdfrommichigan/">LinkedIn</a><br>
+<a href="https://www.linkedin.com/in/wenhaopengphdfrommichigan">LinkedIn</a><br>
 <a href="https://orcid.org/0000-0003-2446-9658">ORCID</a><br>
 <a href="https://scholar.google.com/citations?user=uUKsgDIAAAAJ&hl=en">Google Scholar</a><br>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57205566158">Scopus</a><br>
