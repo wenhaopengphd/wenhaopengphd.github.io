@@ -5,7 +5,7 @@
 
   <body>
 <p>
-<img src="reunnamed.jpg" width=180 alt="">
+<img src="reunnamed.jpg" width=120 alt="">
 <img src="RelIMG_3489.jpg" width=180 alt="">
 <img src="RelDSC5199.jpg" width=90 alt="">
 <img src="RelDSC5178.jpg" width=90 alt="">
