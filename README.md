@@ -5,13 +5,13 @@
 
   <body>
 <p>
-<img src="reunnamed.jpg" width=90 alt="">
+<img src="reunnamed.jpg" width=180 alt="">
 <img src="RelIMG_3489.jpg" width=180 alt="">
 <img src="RelDSC5199.jpg" width=90 alt="">
 <img src="RelDSC5178.jpg" width=90 alt="">
 <img src="Relunnamed.jpg" width=90 alt="">
 <img src="RelIMG_1494.jpg" width=180 alt="">
-<img src="reshowtime.jpg" width=180 alt="">
+<img src="reshowtime.jpg" width=90 alt="">
 <img src="rel_porcupine_mountains_summit_peak.jpg" width=180 alt="">
 <img src="rel_tahquamenon_falls.jpg" width=180 alt="">
 <img src="rel_pictured_rocks_miners_castle.jpg" width=180 alt="">
