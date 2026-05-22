@@ -56,7 +56,6 @@ University of Michigan
 Doctor of Philosophy, Electrical and Computer Engineering<br>
 Sep 2018 - Jan 2026<br>
 Grade: 4.00/4.00<br>
-Technical Area: Applied Electromagnetics and RF Circuits.<br>
 BAW resonators featuring ferroelectric layers up to mm-Wave frequencies; design, modeling, fabrication, measurement, and characterization.<br>
 
 University of Michigan<br>
