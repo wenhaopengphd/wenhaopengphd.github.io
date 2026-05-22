@@ -118,7 +118,7 @@ Publications<br>
   H. Desai, W. Peng and A. Mortazawi, "Single-Pole Single-Throw RF Acoustic Phase Inversion Switch Leveraging Poled Ferroelectrics," in IEEE Transactions on Microwave Theory and Techniques, vol. 73, no. 1, pp. 6-13, Jan. 2025, doi: 10.1109/TMTT.2024.3496665.<br>
   W. Peng, M. Z. Koohi, S. Nam and A. Mortazawi, "Physics Based Modeling of Electrostriction Based BAW Resonators," 2021 IEEE MTT-S International Microwave Symposium (IMS), Atlanta, GA, USA, 2021, pp. 214-217, doi: 10.1109/IMS19712.2021.9574949.<br>
   Y. Dai, W. Peng, Y. Wang, LX. Chuo, K. Suri, H. Zheng, D. Wentzloff, HS. Kim, "Implementation and Evaluation of Bi-Directional WiFi Back-channel Communication," 2018 IEEE 29th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Bologna, Italy, 2018, pp. 1-7, doi: 10.1109/PIMRC.2018.8580736.<br>
-  W. Peng, S. Nam, D. Wang, Z. Mi and A. Mortazawi, "A 36 GHz Trilayer AlN/ScAlN/AlN Periodically Poled FBAR," 2025 IEEE/MTT-S International Microwave Symposium - IMS 2025, San Francisco, CA, USA, 2025, pp. 786-789, doi: 10.1109/IMS40360.2025.11103989.<br>
+  W. Peng, S. Nam, D. Wang, Z. Mi and A. Mortazawi, "<a href=https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11103989>A 36 GHz Trilayer AlN/ScAlN/AlN Periodically Poled FBAR</a>," 2025 IEEE/MTT-S International Microwave Symposium - IMS 2025, San Francisco, CA, USA, 2025, pp. 786-789, doi: 10.1109/IMS40360.2025.11103989.<br>
 </p>
 
 <p>
