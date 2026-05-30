@@ -175,6 +175,9 @@ MECHENG 541
 Microwave Circuits I
 EECS 411
 <br>
+Modern Physics
+Vp 390
+<br>
 Monolithic Amplifier Circuits
 EECS 413
 <br>
