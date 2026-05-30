@@ -142,6 +142,9 @@ EECS 522
 Computer Architecture
 EECS 470
 <br>
+Data Structures and Algorithms
+EECS 281
+<br>
 DSP Design Laboratory
 EECS 452
 <br>
